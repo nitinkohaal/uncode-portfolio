@@ -1,0 +1,233 @@
+@media (max-width:992px){
+
+    .social-media{
+        display: none;
+    }
+         
+
+         .navigation2{
+            display: none;
+
+         }
+
+
+
+
+    .branding1 i{
+        font-size: 30px;
+    }
+
+    .section5{
+        max-width: 992px;
+
+    }
+
+    .section6 .write1{
+        padding: 20px;
+    }
+
+    .section3 .img{
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+    }
+
+
+
+   
+
+}
+
+
+
+
+@media (max-width:770px){
+
+    .section2 img{
+        height: 600px;
+    }
+
+
+    
+    
+    .social-media{
+        display: none;
+    }
+
+    
+
+    .section3 .img{
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .navigation .bar{
+        display: block  ;
+    }
+    
+
+    .ulnav{
+        display: none   ;
+    }
+     
+
+  
+
+    .section5{
+        max-width: 767px;
+
+    }
+
+    .branding2 h4{
+        font-size: 20px;
+    }
+
+    .branding2 p{
+        font-size: 14px;
+        padding: 0px 10px;
+        font-weight: 200;
+    }
+
+    .section6{
+        padding:200px 0 100px 0 ;
+    }
+
+    .section6 .write1{
+        padding: 10px;
+    }
+
+    .section6 .part2 h5{
+        font-size: 15px;
+        line-height: 2;
+        word-spacing:1px;
+    }
+    .section6 .part2 p{
+        font-size: 14px;
+    }
+
+    .section6 .pic1 .img{
+        height: 100px;
+        width: 100px;
+    }
+    
+
+    
+}
+
+@media (max-width:576px){
+
+    .section2 img{
+        height: 500px;
+    }
+
+    .section2 .part h1{
+        font-size: 30px;
+    }
+    .section2 .part1 h1{
+        font-size: 30px;
+    }
+
+
+    .section2 .btn1{
+        padding: 8px 20px;
+    }
+
+
+
+    .section3 .img{
+        height: 400px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .pall{
+        font-size: 15px;
+    }
+    .branding1{
+        display: flex;
+        justify-content: center;
+    }
+
+    .section6 .part2{
+        padding: 0 5px;
+        text-align: center;
+    }
+
+    .section6{
+        padding:355px 0 100px 0 ;
+    }
+
+    .section8 .part2{
+        display: none
+    }
+
+    .carasol1{
+        display: none;
+    }
+
+    .section9{
+        display: block;
+    }
+
+    .carasol2{
+        display: block;
+    }
+
+
+}
+
+@media (max-width:400px){
+    .section3 .img{
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+    }
+
+
+    .section6{  
+
+        padding: 450px 0 50px 0    ;
+    }
+
+    .section2 img{
+        height: 400px;
+    }
+
+    .section3{
+        padding: 50px 0;
+    }
+
+    .section3 .part1{
+        padding: 50px 0;
+    }
+
+    .h2all{
+        font-size: 30px;
+    }
+    .pall{
+        font-size: 15px;
+    }
+
+
+
+    .section7{
+        height: 350px;
+    }
+
+    .circle{
+        width: 100px;
+        height: 100px;
+    }
+
+    .circle2{
+        height: 70px ;
+        width: 70px;
+    }
+
+
+
+   
+
+
+}
